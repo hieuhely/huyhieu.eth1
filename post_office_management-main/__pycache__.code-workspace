@@ -1,0 +1,32 @@
+{
+	"folders": [
+		{
+			"path": "__pycache__"
+		},
+		{
+			"path": "instance"
+		},
+		{
+			"path": "models"
+		},
+		{
+			"path": "reports"
+		},
+		{
+			"path": "routes"
+		},
+		{
+			"path": "services"
+		},
+		{
+			"path": "static"
+		},
+		{
+			"path": "templates"
+		},
+		{
+			"path": "utils"
+		}
+	],
+	"settings": {}
+}
